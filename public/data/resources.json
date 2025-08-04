@@ -1,0 +1,160 @@
+{
+  "title": "Learning Resources",
+  "description": "Curated collection of resources to accelerate your learning journey",
+  "resources": [
+    {
+      "id": 1,
+      "name": "JavaScript Complete Guide",
+      "description": "Comprehensive guide covering all JavaScript concepts from basics to advanced",
+      "tags": ["javascript", "programming", "web development", "tutorial"],
+      "type": "ebook",
+      "links": [
+        {
+          "label": "Read Online",
+          "url": "https://javascript.info"
+        },
+        {
+          "label": "Download PDF",
+          "url": "https://javascript.info/pdf"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "React Official Documentation",
+      "description": "Official React documentation with interactive examples and tutorials",
+      "tags": ["react", "javascript", "frontend", "documentation"],
+      "type": "documentation",
+      "links": [
+        {
+          "label": "Official Docs",
+          "url": "https://react.dev"
+        },
+        {
+          "label": "Tutorial",
+          "url": "https://react.dev/learn"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "CSS Grid Complete Guide",
+      "description": "Ultimate guide to CSS Grid layout with practical examples",
+      "tags": ["css", "layout", "grid", "cheat sheet"],
+      "type": "cheat sheet",
+      "links": [
+        {
+          "label": "Read Guide",
+          "url": "https://css-tricks.com/snippets/css/complete-guide-grid/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Python for Everyone",
+      "description": "Free course covering Python programming from basics to advanced topics",
+      "tags": ["python", "programming", "course", "beginner"],
+      "type": "course",
+      "links": [
+        {
+          "label": "Course Website",
+          "url": "https://www.py4e.com"
+        },
+        {
+          "label": "Video Lectures",
+          "url": "https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Git Commands Cheat Sheet",
+      "description": "Essential Git commands reference for version control",
+      "tags": ["git", "version control", "cheat sheet", "commands"],
+      "type": "cheat sheet",
+      "links": [
+        {
+          "label": "Download PDF",
+          "url": "https://education.github.com/git-cheat-sheet-education.pdf"
+        },
+        {
+          "label": "Interactive Guide",
+          "url": "https://learngitbranching.js.org"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "VS Code Extensions Guide",
+      "description": "Best VS Code extensions for web development and productivity",
+      "tags": ["vscode", "tools", "extensions", "productivity"],
+      "type": "tool",
+      "links": [
+        {
+          "label": "Extension Pack",
+          "url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Algorithm Visualizer",
+      "description": "Interactive platform to visualize algorithms and data structures",
+      "tags": ["algorithms", "data structures", "visualization", "tool"],
+      "type": "tool",
+      "links": [
+        {
+          "label": "Visit Site",
+          "url": "https://algorithm-visualizer.org"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Design System Handbook",
+      "description": "Complete guide to building and maintaining design systems",
+      "tags": ["design", "ui/ux", "design system", "ebook"],
+      "type": "ebook",
+      "links": [
+        {
+          "label": "Read Online",
+          "url": "https://www.designbetter.co/design-systems-handbook"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Node.js Tutorial",
+      "description": "Comprehensive Node.js tutorial covering backend development",
+      "tags": ["nodejs", "backend", "javascript", "tutorial"],
+      "type": "tutorial",
+      "links": [
+        {
+          "label": "Tutorial Series",
+          "url": "https://nodejs.org/en/docs/guides/"
+        },
+        {
+          "label": "Video Course",
+          "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "SQL Quick Reference",
+      "description": "Essential SQL commands and syntax reference guide",
+      "tags": ["sql", "database", "cheat sheet", "reference"],
+      "type": "cheat sheet",
+      "links": [
+        {
+          "label": "Reference Guide",
+          "url": "https://www.w3schools.com/sql/"
+        },
+        {
+          "label": "Practice Exercises",
+          "url": "https://sqlbolt.com"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Contact & Business",
+  "description": "Get in touch for collaborations, partnerships, or any queries",
+  "contactInfo": {
+    "email": "hello@code201.com",
+    "response": "We typically respond within 24 hours",
+    "availability": "Available for partnerships and collaborations"
+  },
+  "businessOpportunities": {
+    "sponsorship": {
+      "title": "Sponsorship Opportunities",
+      "description": "Partner with Code201 to reach our growing community of developers and learners",
+      "benefits": [
+        "Access to 50K+ active learners",
+        "Brand visibility across all platforms",
+        "Custom content collaboration",
+        "Community engagement opportunities"
+      ]
+    },
+    "partnerships": {
+      "title": "Partnership Programs",
+      "description": "Collaborate with us to create valuable content and resources",
+      "opportunities": [
+        "Educational content collaboration",
+        "Course creation partnerships",
+        "Tool and platform integrations",
+        "Community building initiatives"
+      ]
+    }
+  },
+  "communityStats": {
+    "totalMembers": "50K+",
+    "monthlyViews": "2M+",
+    "contentPieces": "500+",
+    "successStories": "1K+"
+  },
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/company/code201",
+      "description": "Professional networking and updates",
+      "followers": "15K+"
+    },
+    {
+      "platform": "WhatsApp",
+      "url": "https://chat.whatsapp.com/code201",
+      "description": "Daily learning tips and resources",
+      "members": "25K+"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/code201",
+      "description": "Discussion and Q&A community",
+      "members": "18K+"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/code201",
+      "description": "Quick tips and coding challenges",
+      "followers": "12K+"
+    }
+  ]
+}

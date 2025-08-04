@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "title": "Code201",
+    "tagline": "Learn to Create",
+    "description": "Discover the ancient art of programming through structured learning paths, expert roadmaps, and a vibrant community of learners.",
+    "cta": "Join the Community"
+  },
+  "highlights": [
+    {
+      "id": "dsa",
+      "title": "DSA Practice",
+      "description": "Master Data Structures & Algorithms with structured learning paths",
+      "icon": "brain",
+      "color": "primary"
+    },
+    {
+      "id": "roadmaps",
+      "title": "Roadmaps & Guides",
+      "description": "Career roadmaps and step-by-step guides for every tech path",
+      "icon": "route",
+      "color": "secondary"
+    },
+    {
+      "id": "resources",
+      "title": "Resources & Playlists",
+      "description": "Curated courses, tutorials, and learning materials",
+      "icon": "library",
+      "color": "accent"
+    },
+    {
+      "id": "blogs",
+      "title": "Blogs",
+      "description": "Latest insights, tips, and success stories from the community",
+      "icon": "pen-tool",
+      "color": "wisdom-gold"
+    },
+    {
+      "id": "community",
+      "title": "Community Channels",
+      "description": "Connect with fellow learners across multiple platforms",
+      "icon": "users",
+      "color": "code-green"
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/company/code201",
+      "description": "Network with other learners"
+    },
+    {
+      "platform": "WhatsApp",
+      "url": "https://chat.whatsapp.com/code201",
+      "description": "Daily learning updates"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/code201",
+      "description": "Discussion space"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/code201",
+      "description": "Short tips & coding challenges"
+    }
+  ]
+}

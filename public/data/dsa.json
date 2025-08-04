@@ -1,0 +1,385 @@
+{
+  "title": "DSA Sheet Crack MNC",
+  "description": "Complete Data Structures and Algorithms preparation for coding interviews",
+  "note": "This course is designed to help you crack coding interviews at top MNC companies. Follow the structured approach and practice consistently.",
+  "totalQuestions": 455,
+  "progressSummary": {
+    "easy": { "total": 131, "completed": 0 },
+    "medium": { "total": 187, "completed": 0 },
+    "hard": { "total": 136, "completed": 0 }
+  },
+  "steps": [
+    {
+      "id": 1,
+      "title": "Step 1: Learn the basics",
+      "lectures": [
+        {
+          "id": 1,
+          "title": "Lec 1: Things to Know in C++/Java/Python/JS and Languages",
+          "questions": [
+            {
+              "id": 1,
+              "name": "User Input / Output",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 2,
+              "name": "Data Types",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 3,
+              "name": "If Else Statements",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 4,
+              "name": "Switch Statement",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 5,
+              "name": "What are arrays, strings",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 6,
+              "name": "For loops",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 7,
+              "name": "While loops",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 8,
+              "name": "Functions (Pass by Reference and Value)",
+              "difficulty": "Medium",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Lec 2: Build-up Logical Thinking",
+          "questions": [
+            {
+              "id": 9,
+              "name": "Patterns",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Lec 3: Learn STL/Java Collections or similar thing in your language",
+          "questions": [
+            {
+              "id": 10,
+              "name": "C++ STL",
+              "difficulty": "Medium",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Lec 4: Know Basic Maths",
+          "questions": [
+            {
+              "id": 11,
+              "name": "Count Digits",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 12,
+              "name": "Reverse a Number",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 13,
+              "name": "Check Palindrome",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 14,
+              "name": "GCD or HCF",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 15,
+              "name": "Armstrong Numbers",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 16,
+              "name": "Print all Divisors",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 17,
+              "name": "Check for Prime",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Lec 5: Learn Basic Recursion",
+          "questions": [
+            {
+              "id": 18,
+              "name": "Understanding Recursion",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 19,
+              "name": "Problems on Recursion",
+              "difficulty": "Medium",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Lec 6: Learn Basic Hashing",
+          "questions": [
+            {
+              "id": 20,
+              "name": "Hashing Theory",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 21,
+              "name": "Counting frequencies of array elements",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 22,
+              "name": "Find the highest/lowest frequency element",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Step 2: Learn Important Sorting Techniques",
+      "lectures": [
+        {
+          "id": 7,
+          "title": "Lec 7: Sorting-I",
+          "questions": [
+            {
+              "id": 23,
+              "name": "Selection Sort",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 24,
+              "name": "Bubble Sort",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 25,
+              "name": "Insertion Sort",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Lec 8: Sorting-II",
+          "questions": [
+            {
+              "id": 26,
+              "name": "Merge Sort",
+              "difficulty": "Medium",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 27,
+              "name": "Quick Sort",
+              "difficulty": "Medium",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Step 3: Solve Problems on Arrays",
+      "lectures": [
+        {
+          "id": 9,
+          "title": "Lec 9: Easy",
+          "questions": [
+            {
+              "id": 28,
+              "name": "Largest Element in Array",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 29,
+              "name": "Second Largest Element in Array",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            },
+            {
+              "id": 30,
+              "name": "Check if array is sorted",
+              "difficulty": "Easy",
+              "solveLink": "#",
+              "resourcePaid": "#",
+              "resourceFree": "#",
+              "practiceLink": "https://leetcode.com/problems/",
+              "notesLink": "#"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

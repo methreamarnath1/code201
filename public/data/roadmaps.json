@@ -1,0 +1,287 @@
+{
+  "title": "Roadmaps & Guides",
+  "description": "Comprehensive career roadmaps and beginner guides to navigate your coding journey",
+  "careerRoadmaps": [
+    {
+      "id": "web-development",
+      "title": "Web Development",
+      "description": "Complete roadmap for full-stack web development",
+      "timeline": "6-12 months",
+      "difficulty": "Beginner to Advanced",
+      "skills": [
+        "HTML & CSS",
+        "JavaScript & ES6+",
+        "React/Vue/Angular",
+        "Node.js & Express",
+        "Databases (SQL/NoSQL)",
+        "DevOps Basics"
+      ],
+      "resources": [
+        {
+          "phase": "Frontend Basics",
+          "items": ["MDN Web Docs", "freeCodeCamp", "CSS-Tricks"]
+        },
+        {
+          "phase": "JavaScript Mastery",
+          "items": ["JavaScript.info", "You Don't Know JS", "ES6 Features"]
+        },
+        {
+          "phase": "Framework Learning",
+          "items": ["React Official Docs", "Vue.js Guide", "Angular Tutorial"]
+        }
+      ],
+      "detailedPath": {
+        "phases": [
+          {
+            "title": "HTML & CSS Fundamentals",
+            "duration": "4-6 weeks",
+            "description": "Master the building blocks of web development with semantic HTML and modern CSS techniques.",
+            "skills": ["HTML5 Semantic Elements", "CSS Grid & Flexbox", "Responsive Design", "CSS Variables"],
+            "projects": ["Personal Portfolio", "Landing Page", "CSS Art Project"],
+            "resources": [
+              {"name": "MDN HTML Guide", "type": "Documentation"},
+              {"name": "CSS Grid Garden", "type": "Interactive Tutorial"},
+              {"name": "Responsive Web Design", "type": "Course"}
+            ]
+          },
+          {
+            "title": "JavaScript Mastery",
+            "duration": "8-10 weeks",
+            "description": "Learn modern JavaScript from basics to advanced concepts including ES6+ features.",
+            "skills": ["ES6+ Syntax", "DOM Manipulation", "Async/Await", "Modules", "APIs"],
+            "projects": ["Todo App", "Weather App", "API-based Project"],
+            "resources": [
+              {"name": "JavaScript.info", "type": "Tutorial"},
+              {"name": "You Don't Know JS", "type": "Book Series"},
+              {"name": "JavaScript30", "type": "Challenge Series"}
+            ]
+          },
+          {
+            "title": "Frontend Framework",
+            "duration": "10-12 weeks",
+            "description": "Master a modern frontend framework like React, Vue, or Angular.",
+            "skills": ["Component Architecture", "State Management", "Routing", "Testing"],
+            "projects": ["E-commerce App", "Social Media Dashboard", "Task Management System"],
+            "resources": [
+              {"name": "React Official Docs", "type": "Documentation"},
+              {"name": "Vue.js Guide", "type": "Tutorial"},
+              {"name": "Component Patterns", "type": "Course"}
+            ]
+          },
+          {
+            "title": "Backend Development",
+            "duration": "8-10 weeks",
+            "description": "Learn server-side development with Node.js and Express framework.",
+            "skills": ["Node.js", "Express.js", "RESTful APIs", "Authentication", "Middleware"],
+            "projects": ["REST API", "Authentication System", "Real-time Chat App"],
+            "resources": [
+              {"name": "Node.js Documentation", "type": "Documentation"},
+              {"name": "Express.js Guide", "type": "Tutorial"},
+              {"name": "API Design Best Practices", "type": "Article"}
+            ]
+          },
+          {
+            "title": "Database & DevOps",
+            "duration": "6-8 weeks",
+            "description": "Work with databases and learn deployment strategies.",
+            "skills": ["MongoDB/PostgreSQL", "Git/GitHub", "Docker", "Cloud Deployment"],
+            "projects": ["Full-stack Application", "Microservices Architecture", "CI/CD Pipeline"],
+            "resources": [
+              {"name": "MongoDB University", "type": "Course"},
+              {"name": "Docker Documentation", "type": "Documentation"},
+              {"name": "AWS/Heroku Guides", "type": "Tutorial"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "app-development",
+      "title": "App Development",
+      "description": "Native and cross-platform mobile app development path",
+      "timeline": "8-15 months",
+      "difficulty": "Intermediate",
+      "skills": [
+        "Java/Kotlin (Android)",
+        "Swift (iOS)",
+        "React Native/Flutter",
+        "UI/UX Design",
+        "API Integration",
+        "App Store Deployment"
+      ]
+    },
+    {
+      "id": "data-science",
+      "title": "Data Science & AI",
+      "description": "From data analysis to machine learning and AI",
+      "timeline": "10-18 months",
+      "difficulty": "Intermediate to Advanced",
+      "skills": [
+        "Python & Libraries",
+        "Statistics & Math",
+        "Data Visualization",
+        "Machine Learning",
+        "Deep Learning",
+        "MLOps & Deployment"
+      ]
+    },
+    {
+      "id": "cybersecurity",
+      "title": "Cybersecurity",
+      "description": "Comprehensive security and ethical hacking roadmap",
+      "timeline": "12-24 months",
+      "difficulty": "Intermediate to Advanced",
+      "skills": [
+        "Network Security",
+        "Ethical Hacking",
+        "Penetration Testing",
+        "Security Frameworks",
+        "Risk Assessment",
+        "Incident Response"
+      ]
+    }
+  ],
+  "beginnerGuides": [
+    {
+      "id": "start-coding",
+      "title": "How to Start Coding",
+      "description": "Complete beginner's guide to programming",
+      "author": "Sarah Johnson",
+      "authorTitle": "Senior Software Engineer at Google",
+      "achievements": ["10+ years experience", "Mentored 100+ developers", "Speaker at 20+ conferences"],
+      "readTime": "15 min read",
+      "steps": [
+        "Choose your first programming language",
+        "Set up your development environment", 
+        "Learn basic programming concepts",
+        "Build your first project",
+        "Join coding communities",
+        "Practice regularly and consistently"
+      ],
+      "detailedContent": {
+        "introduction": "Starting your coding journey can feel overwhelming, but with the right approach, anyone can learn to program. This guide will walk you through the essential steps to begin your programming career.",
+        "sections": [
+          {
+            "title": "1. Choosing Your First Language",
+            "content": "Your first programming language should be beginner-friendly yet powerful enough to build real projects. Here are the top recommendations:\n\n**Python** - Ideal for beginners due to its readable syntax and versatility. Perfect for web development, data science, and automation.\n\n**JavaScript** - Essential for web development. You can build websites, mobile apps, and even server applications.\n\n**Java** - Great for learning programming fundamentals and building large applications.\n\n**Recommendation:** Start with Python for its simplicity, then learn JavaScript if you're interested in web development."
+          },
+          {
+            "title": "2. Setting Up Your Environment",
+            "content": "Having the right tools makes coding much easier:\n\n**Code Editor:** Start with VS Code (free and powerful)\n**Version Control:** Learn Git and GitHub for managing your code\n**Package Managers:** Python (pip), JavaScript (npm)\n**Terminal/Command Line:** Essential for running programs and managing files\n\n**Quick Setup Guide:**\n1. Download and install VS Code\n2. Install Python from python.org\n3. Create a GitHub account\n4. Practice basic terminal commands"
+          },
+          {
+            "title": "3. Core Programming Concepts",
+            "content": "Master these fundamental concepts in order:\n\n**Variables and Data Types:** Learn to store and manipulate data\n**Control Structures:** If statements, loops, and functions\n**Data Structures:** Arrays, objects, and collections\n**Object-Oriented Programming:** Classes, inheritance, and encapsulation\n**Error Handling:** Try-catch blocks and debugging\n\n**Practice Tip:** Code along with tutorials and experiment with each concept."
+          },
+          {
+            "title": "4. Building Your First Project",
+            "content": "Apply your knowledge with these beginner projects:\n\n**Calculator App:** Practice basic operations and user input\n**To-Do List:** Learn about data storage and manipulation\n**Weather App:** Work with APIs and external data\n**Personal Website:** Combine HTML, CSS, and JavaScript\n\n**Project Tips:**\n- Start simple and add features gradually\n- Don't worry about perfect code initially\n- Focus on making it work first, then improve"
+          },
+          {
+            "title": "5. Joining Communities",
+            "content": "Connect with other developers for support and learning:\n\n**Online Communities:**\n- Stack Overflow for questions\n- Reddit (r/programming, r/learnprogramming)\n- Discord coding servers\n- Dev.to for articles and discussions\n\n**Local Communities:**\n- Meetup groups in your city\n- Code bootcamps and workshops\n- University coding clubs\n\n**Benefits:** Get help, find mentors, discover opportunities, and stay motivated."
+          },
+          {
+            "title": "6. Consistent Practice",
+            "content": "Consistency is key to becoming a proficient programmer:\n\n**Daily Practice:**\n- Code for at least 30 minutes daily\n- Solve coding challenges on platforms like LeetCode or HackerRank\n- Read other people's code on GitHub\n\n**Weekly Goals:**\n- Complete a small project each week\n- Learn one new concept or tool\n- Refactor and improve old code\n\n**Monthly Milestones:**\n- Build a portfolio project\n- Learn a new framework or library\n- Contribute to an open-source project"
+          }
+        ],
+        "conclusion": "Remember, learning to code is a marathon, not a sprint. Focus on building a strong foundation, practice consistently, and don't be afraid to make mistakes. Every expert was once a beginner!"
+      }
+    },
+    {
+      "id": "open-source",
+      "title": "Open Source Contribution",
+      "description": "Step-by-step guide to contributing to open source",
+      "author": "Mike Chen",
+      "authorTitle": "Open Source Maintainer & DevRel Engineer",
+      "achievements": ["Maintainer of 5+ popular repos", "500+ contributions", "GitHub Stars Award recipient"],
+      "readTime": "12 min read",
+      "steps": [
+        "Understand Git and GitHub",
+        "Find beginner-friendly projects",
+        "Read contribution guidelines",
+        "Start with documentation",
+        "Make your first pull request",
+        "Build your open source profile"
+      ],
+      "detailedContent": {
+        "introduction": "Contributing to open source is one of the best ways to improve your coding skills, build your portfolio, and give back to the community. This guide will help you make your first meaningful contribution.",
+        "sections": [
+          {
+            "title": "1. Mastering Git and GitHub",
+            "content": "Git is essential for open source contribution:\n\n**Basic Git Commands:**\n```bash\ngit clone <repository-url>\ngit branch <feature-name>\ngit add .\ngit commit -m \"Description\"\ngit push origin <branch-name>\n```\n\n**GitHub Workflow:**\n1. Fork the repository\n2. Clone your fork locally\n3. Create a new branch for your changes\n4. Make changes and commit\n5. Push to your fork\n6. Create a pull request\n\n**Practice:** Create a personal repository and practice these commands."
+          },
+          {
+            "title": "2. Finding the Right Projects",
+            "content": "Start with beginner-friendly repositories:\n\n**Great Places to Start:**\n- Good First Issue labels on GitHub\n- First Timers Only website\n- Up For Grabs website\n- Hacktoberfest participating projects\n\n**What to Look For:**\n- Active maintenance (recent commits)\n- Welcoming community\n- Clear contribution guidelines\n- Good documentation\n- Responsive maintainers\n\n**Recommended Languages:** Start with projects in languages you're comfortable with."
+          },
+          {
+            "title": "3. Understanding Project Guidelines",
+            "content": "Every project has its own rules and standards:\n\n**Essential Files to Read:**\n- README.md (project overview)\n- CONTRIBUTING.md (contribution guidelines)\n- CODE_OF_CONDUCT.md (community standards)\n- Issue templates and PR templates\n\n**Common Requirements:**\n- Code style and formatting\n- Testing requirements\n- Commit message format\n- Documentation updates\n\n**Tip:** Always read these files before making any changes."
+          },
+          {
+            "title": "4. Starting with Documentation",
+            "content": "Documentation contributions are valuable and beginner-friendly:\n\n**Types of Documentation Contributions:**\n- Fix typos and grammar errors\n- Improve unclear explanations\n- Add examples and tutorials\n- Translate documentation\n- Update outdated information\n\n**Benefits:**\n- Learn the project deeply\n- Build relationship with maintainers\n- Improve writing skills\n- Make immediate impact\n\n**Tools:** Most documentation uses Markdown format."
+          },
+          {
+            "title": "5. Making Your First Pull Request",
+            "content": "Follow these steps for a successful first PR:\n\n**Before Coding:**\n1. Comment on the issue you want to work on\n2. Get approval from maintainers\n3. Understand the expected solution\n\n**Writing Good Code:**\n- Follow the project's coding standards\n- Write tests if required\n- Keep changes focused and small\n- Add comments for complex logic\n\n**Pull Request Best Practices:**\n- Write a clear title and description\n- Reference the related issue\n- Include screenshots if applicable\n- Be responsive to feedback"
+          },
+          {
+            "title": "6. Building Your Profile",
+            "content": "Consistent contributions build your reputation:\n\n**Growing Your Impact:**\n- Start with small contributions\n- Gradually take on bigger features\n- Help other contributors\n- Become a project maintainer\n\n**Portfolio Benefits:**\n- Demonstrates real-world coding skills\n- Shows collaboration abilities\n- Builds professional network\n- Impresses potential employers\n\n**Long-term Goals:**\n- Maintain your own open source project\n- Speak at conferences about your contributions\n- Mentor new contributors"
+          }
+        ],
+        "conclusion": "Open source contribution is a journey of continuous learning and giving back. Start small, be patient, and remember that every contribution matters, no matter how small it seems!"
+      }
+    },
+    {
+      "id": "interview-prep",
+      "title": "Interview Preparation",
+      "description": "Technical interview preparation strategy",
+      "author": "Alex Rodriguez",
+      "authorTitle": "Technical Interview Coach & Ex-FAANG Engineer",
+      "achievements": ["Conducted 1000+ interviews", "95% success rate for coached candidates", "Author of 'Cracking Tech Interviews'"],
+      "readTime": "20 min read",
+      "steps": [
+        "Master data structures and algorithms",
+        "Practice coding problems daily",
+        "Understand system design basics",
+        "Prepare behavioral questions",
+        "Mock interviews and feedback",
+        "Research company-specific questions"
+      ],
+      "detailedContent": {
+        "introduction": "Technical interviews can be challenging, but with proper preparation and strategy, you can significantly increase your chances of success. This comprehensive guide covers everything you need to know.",
+        "sections": [
+          {
+            "title": "1. Data Structures & Algorithms Mastery",
+            "content": "DSA forms the core of most technical interviews:\n\n**Essential Data Structures:**\n- Arrays and Strings\n- Linked Lists\n- Stacks and Queues\n- Trees and Binary Search Trees\n- Graphs\n- Hash Tables\n- Heaps\n\n**Key Algorithms:**\n- Sorting (Quick, Merge, Heap)\n- Searching (Binary Search, DFS, BFS)\n- Dynamic Programming\n- Greedy Algorithms\n- Two Pointers Technique\n\n**Study Plan:** Dedicate 2-3 months, focusing on one topic per week."
+          },
+          {
+            "title": "2. Daily Coding Practice",
+            "content": "Consistent practice is crucial for interview success:\n\n**Practice Platforms:**\n- LeetCode (most popular)\n- HackerRank\n- CodeSignal\n- InterviewBit\n\n**Practice Strategy:**\n- Start with easy problems\n- Gradually increase difficulty\n- Focus on understanding patterns\n- Time yourself (20-30 minutes per problem)\n\n**Weekly Schedule:**\n- Monday: Arrays/Strings\n- Tuesday: Trees/Graphs\n- Wednesday: Dynamic Programming\n- Thursday: System Design\n- Friday: Mixed practice\n- Weekend: Mock interviews"
+          },
+          {
+            "title": "3. System Design Fundamentals",
+            "content": "System design interviews test your ability to architect large-scale systems:\n\n**Core Concepts:**\n- Scalability and Load Balancing\n- Database Design (SQL vs NoSQL)\n- Caching Strategies\n- Microservices Architecture\n- Message Queues\n- CDN and Content Delivery\n\n**Common Questions:**\n- Design a URL shortener (like bit.ly)\n- Design a social media feed\n- Design a chat application\n- Design a ride-sharing service\n\n**Preparation Tips:**\n- Study real-world system architectures\n- Practice drawing diagrams\n- Understand trade-offs"
+          },
+          {
+            "title": "4. Behavioral Interview Preparation",
+            "content": "Behavioral questions assess cultural fit and soft skills:\n\n**Common Questions:**\n- Tell me about yourself\n- Why do you want to work here?\n- Describe a challenging project\n- How do you handle conflicts?\n- What's your greatest weakness?\n\n**STAR Method:**\n- **Situation:** Set the context\n- **Task:** Explain what needed to be done\n- **Action:** Describe what you did\n- **Result:** Share the outcome\n\n**Preparation Strategy:**\n- Prepare 5-7 detailed stories\n- Practice out loud\n- Record yourself for feedback\n- Research company values"
+          },
+          {
+            "title": "5. Mock Interviews and Feedback",
+            "content": "Practice in realistic interview conditions:\n\n**Mock Interview Platforms:**\n- Pramp (free peer-to-peer)\n- InterviewBuddy\n- Interviewing.io\n- CodeInterview\n\n**What to Practice:**\n- Coding on a whiteboard/shared screen\n- Thinking out loud\n- Handling pressure\n- Asking clarifying questions\n\n**Getting Feedback:**\n- Join coding communities\n- Find a mentor\n- Record your sessions\n- Track improvement areas\n\n**Frequency:** 2-3 mock interviews per week in the final month."
+          },
+          {
+            "title": "6. Company Research and Customization",
+            "content": "Tailor your preparation to specific companies:\n\n**Research Areas:**\n- Company culture and values\n- Recent news and products\n- Tech stack and engineering blog\n- Interview process and timeline\n\n**Platform-Specific Prep:**\n- **Google:** Focus on algorithms and coding efficiency\n- **Amazon:** Emphasize leadership principles and system design\n- **Facebook:** Strong coding skills and product sense\n- **Apple:** Attention to detail and user experience\n\n**Questions to Ask:**\n- About the team and role\n- Technical challenges\n- Growth opportunities\n- Company culture"
+          }
+        ],
+        "conclusion": "Interview preparation is a skill that improves with practice. Stay consistent, seek feedback, and remember that rejection is part of the process. Every interview is a learning opportunity that brings you closer to your goal!"
+      }
+    }
+  ]
+}

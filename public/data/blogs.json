@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": "blog-004",
+      "title": "Mastering React Hooks: A Complete Guide",
+      "excerpt": "Deep dive into React Hooks with practical examples and best practices for modern React development.",
+      "content": "React Hooks revolutionized how we write React components. In this comprehensive guide, we'll explore all the essential hooks and learn when and how to use them effectively.\n\n## What are React Hooks?\n\nReact Hooks are functions that let you use state and other React features without writing a class. They were introduced in React 16.8 and have become the standard way to write React components.\n\n## Essential Hooks\n\n### useState\nThe most basic hook for managing component state:\n\n```javascript\nconst [count, setCount] = useState(0);\n```\n\n### useEffect\nHandles side effects in functional components:\n\n```javascript\nuseEffect(() => {\n  document.title = `Count: ${count}`;\n}, [count]);\n```\n\n### useContext\nAccess context values without nesting:\n\n```javascript\nconst theme = useContext(ThemeContext);\n```\n\n## Best Practices\n\n1. **Follow the Rules of Hooks**: Only call hooks at the top level\n2. **Use dependency arrays correctly**: Prevent infinite loops\n3. **Custom hooks for reusability**: Extract common logic\n4. **Use useCallback and useMemo wisely**: Optimize performance\n\n## Conclusion\n\nReact Hooks have simplified React development significantly. By following these patterns and best practices, you'll write cleaner, more maintainable React code.",
+      "author": "Code201 Team",
+      "category": "Coding Tips",
+      "date": "2024-08-03",
+      "readTime": "8 min read",
+      "tags": ["React", "JavaScript", "Frontend", "Hooks"],
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&h=400&fit=crop"
+    },
+    {
+      "id": "blog-003",
+      "title": "From Zero to Hero: My Data Science Journey",
+      "excerpt": "A personal story of transitioning from a non-tech background to landing a data scientist role at a Fortune 500 company.",
+      "content": "Two years ago, I was working in retail with no coding experience. Today, I'm a data scientist at Microsoft. Here's how I made the transition...\n\n## The Beginning\n\nI started with absolutely zero programming knowledge. The world of data science seemed intimidating and out of reach. But I had a clear goal and was willing to put in the work.\n\n## My Learning Path\n\n### Month 1-3: Python Fundamentals\n- Started with basic Python syntax\n- Practiced on platforms like Codecademy\n- Built simple projects like calculators\n\n### Month 4-8: Data Science Foundations\n- Learned pandas, numpy, matplotlib\n- Took online courses on statistics\n- Started working with real datasets\n\n### Month 9-15: Advanced Concepts\n- Machine learning algorithms\n- Deep learning with TensorFlow\n- Portfolio development\n\n### Month 16-24: Job Preparation\n- Technical interview preparation\n- Networking in the data science community\n- Contributing to open source projects\n\n## Key Lessons Learned\n\n1. **Consistency beats intensity**: Daily practice is more valuable than weekend marathons\n2. **Build projects**: Employers want to see what you can create\n3. **Network actively**: Many opportunities come through connections\n4. **Don't wait until you're ready**: You'll never feel 100% ready\n\n## The Job Search\n\nAfter 18 months of learning, I started applying. It took 50+ applications and 15 interviews before landing my dream job at Microsoft.\n\n## Advice for Beginners\n\n- Start today, even if it's just 30 minutes\n- Join communities like Kaggle and Reddit\n- Document your learning journey\n- Be patient with yourself\n\nThe transition wasn't easy, but it was absolutely worth it. If I can do it, so can you!",
+      "author": "Sarah Chen",
+      "category": "Success Stories",
+      "date": "2024-08-02",
+      "readTime": "6 min read",
+      "tags": ["Data Science", "Career Change", "Python", "Success"],
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop"
+    },
+    {
+      "id": "blog-002",
+      "title": "Top 10 VS Code Extensions Every Developer Needs",
+      "excerpt": "Boost your productivity with these essential VS Code extensions that every programmer should have installed.",
+      "content": "Visual Studio Code is the most popular code editor, and these extensions will supercharge your development workflow...",
+      "author": "Alex Rodriguez",
+      "category": "Coding Tips",
+      "date": "2024-08-01",
+      "readTime": "5 min read",
+      "tags": ["VS Code", "Productivity", "Tools", "Extensions"],
+      "featured": false
+    },
+    {
+      "id": "blog-001",
+      "title": "The Rise of AI in 2024: What Developers Need to Know",
+      "excerpt": "Explore the latest AI trends and how they're reshaping the software development landscape this year.",
+      "content": "Artificial Intelligence is transforming every aspect of software development. From code generation to automated testing, here's what you need to know...",
+      "author": "Dr. Priya Sharma",
+      "category": "Tech Trends",
+      "date": "2024-07-30",
+      "readTime": "7 min read",
+      "tags": ["AI", "Machine Learning", "Future", "Technology"],
+      "featured": true
+    }
+  ],
+  "categories": [
+    {
+      "name": "Coding Tips",
+      "count": 12,
+      "color": "primary"
+    },
+    {
+      "name": "Learning Strategies",
+      "count": 8,
+      "color": "secondary"
+    },
+    {
+      "name": "Tech Trends",
+      "count": 15,
+      "color": "accent"
+    },
+    {
+      "name": "Success Stories",
+      "count": 6,
+      "color": "wisdom-gold"
+    }
+  ]
+}
